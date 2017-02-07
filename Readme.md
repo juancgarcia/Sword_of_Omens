@@ -6,4 +6,6 @@ Hardware write-up here: https://hackaday.io/project/19623-sword-of-omens-w-sight
 
 ![image](https://thumbs.gfycat.com/LittleFlakyBlacklemur-size_restricted.gif)
 
-[https://gfycat.com/LittleFlakyBlacklemur](https://gfycat.com/LittleFlakyBlacklemur)
+[Higher quality gif](https://gfycat.com/LittleFlakyBlacklemur)
+
+(Github's forced caching chokes on the large version if I try to embed it)
